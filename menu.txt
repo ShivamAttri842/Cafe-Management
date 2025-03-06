@@ -1,0 +1,8 @@
+1 Coffee 50
+2 Tea 20
+3 Sandwich 70
+4 Cake 180
+5 Juice 60
+6 Salad 30
+7 Pizza 250
+8 Burger 50
